@@ -1,0 +1,29 @@
+{
+  "name": "api-logger",
+  "version": "1.0.0",
+  "description": "A package for logging API request and response data.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithil-A/node-logger.git"
+  },
+  "keywords": [
+    "api",
+    "logger",
+    "logging",
+    "middleware",
+    "express"
+  ],
+  "author": "Nithil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nithil-A/node-logger/issues"
+  },
+  "homepage": "https://github.com/Nithil-A/node-logger#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
